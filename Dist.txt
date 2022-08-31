@@ -1,0 +1,4 @@
+
+ct	ContactlessTherm	igmh,	2.00
+sm	SurgicalMask	aeh	1.00
+fm	FaceMask	igmh	1.00

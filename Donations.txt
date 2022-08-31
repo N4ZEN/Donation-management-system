@@ -1,0 +1,6 @@
+
+ct	ContactlessTherm	Japan	1	4.33
+sm	SurgicalMask	China	2	13.00
+fm	FaceMask	China	1	11.20
+om	OxygenMask	SaudhiArabia	2	3.22
+hs	HandSanitizer	China	4	1.33
